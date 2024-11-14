@@ -296,12 +296,26 @@ header .header-content img {
 #portfolio .row .item .item-content {
     padding: 20px 15px 30px;
 }
+
 #portfolio .row .item .item-content h3 {
     font-size: 20px;
     color: var(--primary-color);
     margin-bottom: 10px;
 }
 #portfolio .row .item .item-content a {
+    font-size: 14px;
+    color: var(--secondary-color);
+    font-weight: 500;
+}
+#portfolio .row .item .item-content1 {
+    padding: 20px 10px 30px;
+}
+#portfolio .row .item .item-content1 h3 {
+    font-size: 20px;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+#portfolio .row .item .item-content1 a {
     font-size: 14px;
     color: var(--secondary-color);
     font-weight: 500;
